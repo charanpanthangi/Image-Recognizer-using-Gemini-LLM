@@ -18,7 +18,7 @@ Overall, an image model using Gemini LLM opens up exciting possibilities for und
 
 ## Dependencies and Installation
 ----------------------------
-To install the MultiPDF Chat App, please follow these steps:
+To install the Image-model-using-Gemini-LLM  App, please follow these steps:
 
 1. Clone the repository to your local machine.
 
